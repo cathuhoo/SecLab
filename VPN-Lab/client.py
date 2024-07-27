@@ -1,3 +1,5 @@
+#!/usr/bin/evn python3
+
 import socket
 import ssl
 import time
